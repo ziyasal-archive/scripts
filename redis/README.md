@@ -1,0 +1,1 @@
+Adapted [from](https://blog.al4.co.nz/2014/08/safely-running-bulk-operations-on-redis-with-lua-scripts/) 
