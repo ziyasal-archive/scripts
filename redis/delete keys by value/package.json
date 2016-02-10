@@ -1,0 +1,18 @@
+{
+  "name": "redis-remove-by-value",
+  "version": "1.0.0",
+  "description": "redis remove keys by value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ziyasal <sarikayaziya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "redis": "^2.4.2",
+    "redisscan": "^1.1.0",
+    "tracer": "^0.8.3",
+    "yargs": "^3.32.0"
+  }
+}
