@@ -1,13 +1,13 @@
 ##To Run
 
 ```sh
-node .\index.js --pattern='TRENDYOL_WEB_HARD_LOGIN_CACHE:*' --prop='UserId' --val=11810419
+node .\index.js --pattern='my_pattern:*' --prop='UserId' --val=11810419
 ```
 
 ```sh
 
 ```sh
-node .\index.js --pattern='TRENDYOL_WEB_HARD_LOGIN_CACHE:*' \
+node .\index.js --pattern='my_pattern:*' \
                   --prop='UserId' --val=11810419 \ 
                   --host='127.0.0.1' --port=6379
 ```
